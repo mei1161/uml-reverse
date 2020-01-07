@@ -1,12 +1,12 @@
 Student(int
 print()
-System.out.println("学籍番号:"
-System.out.println("氏名:"
+System.out.println(
+System.out.println(
 main(
 (
 (
 (
 (
 (
-for(Student
-s.print();//生徒のデータを出力する
+for(
+s.print();
