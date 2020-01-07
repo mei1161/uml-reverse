@@ -1,0 +1,9 @@
+@startuml mei
+class Student{
+void set_name
+void set_num
+String get_name
+int get_num
+void print
+}
+@enduml
