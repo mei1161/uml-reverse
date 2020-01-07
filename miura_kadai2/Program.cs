@@ -27,6 +27,7 @@ namespace miura_kadai2
                 }
             }
             writer.Close();
+            Console.Write("Hello");
         }
     }
 }

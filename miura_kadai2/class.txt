@@ -2,11 +2,11 @@ Student(int
 print()
 System.out.println("学籍番号:"
 System.out.println("氏名:"
-main(String[]
-Student(1,"太郎"),//太郎初期化
-Student(2,"花子"),//花子初期化
-Student(3,"道子"),//道子初期化
-Student(4,"次郎"),//次郎初期化
-Student(5,"蓮華")//蓮華初期化
+main(
+(
+(
+(
+(
+(
 for(Student
 s.print();//生徒のデータを出力する
