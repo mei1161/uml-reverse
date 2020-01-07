@@ -18,6 +18,13 @@ namespace miura_kadai2
             string text = sr.ReadToEnd();
             sr.Close();
             string[] texts = text.Split();
+            var text_list = new List<String>();
+            for(var i=0; i< texts.Length; ++i)
+            {
+                if( texts[i] == "")
+                {
+                }
+            }
             for (var i = 0; i < texts.Length; ++i)
             {
                 if(texts[i].Contains( "("))
